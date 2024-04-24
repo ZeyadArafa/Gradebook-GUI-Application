@@ -1,6 +1,6 @@
 # Gradebook GUI Application
 
-########################################################## Project Title ##################################################################
+######################################### Project Title #################################################
 
 Project Title
 The project is a C application for managing student data and displaying grades through a graphical user interface (GUI) created using the GTK (GIMP Toolkit) library.
